@@ -1,0 +1,22 @@
+.main-container {
+  max-width: 25rem;
+  box-shadow: 0 0 4px 4px #ccc;
+  max-height: 40rem;
+  overflow: scroll;
+  overflow-x: hidden !important;
+  /* padding: 0.3rem; */
+  margin: 2rem auto;
+  border-radius: 0.25rem;
+}
+.no-results-div {
+  height: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: #ccc;
+}
+
+.highlighted-text {
+  font-weight: 600;
+  color: rgb(83, 97, 216);
+}

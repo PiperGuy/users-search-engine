@@ -1,0 +1,23 @@
+.user-card {
+  padding: 1rem;
+  border-bottom: 0.1px solid #ccc !important;
+  outline: none;
+}
+.highlighted-card {
+  background-color: rgb(255, 250, 199);
+}
+
+.card-id {
+  font-weight: 500;
+}
+.card-name {
+  margin-top: 0.2rem;
+  font-size: 16px;
+  font-weight: 300;
+  font-style: italic;
+}
+.card-address {
+  font-size: 14px;
+  margin-top: 0.5rem;
+  font-weight: 200;
+}
